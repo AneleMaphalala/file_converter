@@ -1,8 +1,0 @@
-README.md
-setup.py
-Work_Automation.egg-info/PKG-INFO
-Work_Automation.egg-info/SOURCES.txt
-Work_Automation.egg-info/dependency_links.txt
-Work_Automation.egg-info/top_level.txt
-document_format_converter/__init__.py
-document_format_converter/format_converter.py
